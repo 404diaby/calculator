@@ -1,7 +1,8 @@
 
 
 
-
+readme
+node + scrit start + install live server 
 add theme
 porcentage fonction
 menu accessiblité
